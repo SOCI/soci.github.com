@@ -1,4 +1,4 @@
 soci.github.com
 ===============
 
-libsoci.org
+http://soci.sourceforge.net
